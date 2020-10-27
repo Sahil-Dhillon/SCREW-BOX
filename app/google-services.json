@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "598157863927",
+    "firebase_url": "https://screw-box.firebaseio.com",
+    "project_id": "screw-box",
+    "storage_bucket": "screw-box.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598157863927:android:4b974c1c903e4fadbb9cf2",
+        "android_client_info": {
+          "package_name": "com.example.screwbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598157863927-8np6hrvasm0ecgkkcm87qfco7bhfd53r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.screwbox",
+            "certificate_hash": "437cb335ed87fcba88c30a384b8519e0698dd2b0"
+          }
+        },
+        {
+          "client_id": "598157863927-h94umulbdufishe4gtk1e5nuj0jkmeve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd59JfOuSIC8KMQiDsHB4Eho9qaI7XRmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598157863927-h94umulbdufishe4gtk1e5nuj0jkmeve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
